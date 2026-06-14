@@ -1,3 +1,5 @@
+![Data Quality Monitoring Dashboard Banner](images/banner.png)
+
 # Data Quality Monitoring Dashboard
 
 ## Overview
