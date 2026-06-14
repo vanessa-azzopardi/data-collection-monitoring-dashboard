@@ -6,7 +6,7 @@ This project demonstrates the design and development of a Power BI dashboard use
 
 The dashboard was developed to provide operational and management teams with visibility of fieldwork progress, helping identify data quality issues, monitor survey performance, and support evidence-based decision making.
 
-## Technologies
+## Tech Stack & Skills
 
 * Power BI
 * Power Query
@@ -55,18 +55,7 @@ Tracks interviewer performance, response outcomes and fieldwork progress across 
 
 Monitors missing data patterns and evaluates sample representativeness through comparisons with external benchmark data.
 
-## Skills Demonstrated
 
-* Business Intelligence Development
-* Dashboard Design
-* Data Visualisation
-* KPI Development
-* Data Quality Monitoring
-* Data Modelling
-* Stakeholder Reporting
-* Survey Analytics
-* Operational Performance Analysis
-* Power BI Development
 
 ## Note
 
