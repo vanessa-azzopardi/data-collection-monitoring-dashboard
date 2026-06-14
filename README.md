@@ -1,5 +1,3 @@
-![Data Quality Monitoring Dashboard Banner](images/banner.png)
-
 # Data Quality Monitoring Dashboard
 
 ## Overview
@@ -62,3 +60,6 @@ Monitors missing data patterns and evaluates sample representativeness through c
 ## Note
 
 Only screenshots and project documentation are shared. Underlying datasets, business logic and implementation details are not included as they contain organisational data and internal processes.
+
+
+![Data Quality Monitoring Dashboard Banner](images/banner.png)
